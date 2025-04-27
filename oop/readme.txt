@@ -1,8 +1,8 @@
-programing paradigm => a way of thinking ( procedural programing )
+programming paradigm => a way of thinking ( procedural programing )
+
 
 int a = 4 ;
 for( ; a<10 ; a++){
-
 }
 
 imperative programing / declarative programing 
@@ -18,3 +18,10 @@ object student (name , last  , date of birth .... ) (present a lessen , pass exa
 class it's a group of object with the same nature (description )
 
 object copy form the class or an instance form the class 
+
+
+constructor 
+special method 
+name : the same name of the class 
+calling one's you create an object 
+used for initialazitions
